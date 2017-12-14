@@ -1,2 +1,2 @@
-
+This is a test from Eclipse IDE
 new from bach vi 
