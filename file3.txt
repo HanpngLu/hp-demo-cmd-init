@@ -1,1 +1,3 @@
+THis is to test pull from github remote change 
 THis is to change from local (to simulate conflict)
+Have both 
